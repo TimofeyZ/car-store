@@ -1,0 +1,627 @@
+*{
+
+margin: 0;
+
+
+
+}
+h1{
+
+    font-family: 'Arimo', sans-serif;
+    font-size:40px ;
+    text-align: center;
+    color: rgb(0, 9, 17);
+    padding: 30px ;
+}
+a{
+    border: 4mm inset  rgba(242, 255, 0, 0); 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.514);
+    display: inline-block;
+        border-radius: 5px;
+    padding: 10px 20px ;
+    text-shadow:0 0  10px rgb(3, 61, 20);
+    margin-top: 15px;
+    border-color: rgb(255, 255, 255);
+  background-color: #ffffff5b;  
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-family: 'Arimo', sans-serif;
+}
+a:hover{
+
+    border-color: rgb(92, 158, 54);
+}
+.menu{  
+    text-align: center;
+    font-family: 'Arimo', sans-serif;
+
+ }
+body{
+background-size: cover;
+    background-image: url("crocobg.jpg");
+    font-family: 'Arimo', sans-serif;
+}
+
+
+
+.banner{
+    background-size: cover;
+padding: 50px ;
+text-align: center;
+    background-image: url("ktc.jpg");
+    padding-top: 0;
+}
+.banner p{
+    font-family: 'Arimo', sans-serif;
+    padding: 30px ;
+    box-sizing: border-box;
+background-image: linear-gradient(to right,#00000066,#000000a2);
+text-align: right;
+ width: 60%;
+ margin-left: 40%;
+ color: antiquewhite;
+ 
+}
+
+h2{
+    text-shadow:0 0  10px rgb(0, 0, 0);
+    margin: 20px 0 ;
+    font-family: 'Arimo', sans-serif;
+    font-size:70px ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.info{
+padding-left: 20px;
+color: rgb(255, 255, 255);
+vertical-align: middle;
+    display: inline-block;
+width: 40%;
+font-family: 'Arimo', sans-serif;
+
+
+
+}
+#car{
+
+
+vertical-align: middle;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514);
+    border-radius: 10px;
+
+
+
+
+width: 40%;
+
+
+}
+
+.company{
+
+text-align: center;
+
+
+}
+
+
+
+
+.info p{
+
+
+    padding: 20px 0;
+}
+.info h4{
+
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.514);
+
+
+}
+.cities h4{
+color: white;
+text-align: center;
+padding-bottom: 20px;
+text-shadow: 0 0 5px black;
+}
+.city{
+
+width: 30%;
+
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+display: inline-block;
+margin: 5px;
+padding: 15px;
+background-image: url("ммм.jpg");
+background-size: cover;
+background-position: center;
+border-radius:5px ;
+}
+.spb{
+
+    background-image: url("ппп.jpg");
+}
+.sochi{
+
+background-image: url("ооо.jpg");
+
+}
+.cities {
+
+text-align: center;
+
+}
+ul{
+
+background-color: rgba(240, 248, 255, 0.651);
+
+}
+
+.human{
+    background-color: rgba(255, 255, 255, 0.603);
+    width: 20%;
+vertical-align: top;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+display: inline-block;
+margin: 15px;
+padding: 15px;
+background-image: url("");
+background-size: cover;
+background-position: center;
+border-radius:5px ;
+
+
+}
+.human img{
+border-radius: 100px ;
+width: 150px;
+height: 150px;
+object-fit: cover;
+}
+/* Создать карточку для супер-упер-пупер человека в команде */
+
+.FB{
+/* background-color: aqua; */
+
+    text-align: center;
+}
+
+.team{
+
+text-align: center;
+
+}
+
+.human h6{
+
+margin-bottom: 10px;
+
+}
+
+.human a{
+
+    color: rgb(59, 54, 54);
+}
+
+input{
+border: none;
+max-width: 400px;
+    width: 90%;
+    display: block;
+    margin: 5px auto;
+    height: 40px;
+    padding: 0 5px;
+    border-radius: 3px;
+    font-family: 'Arimo', sans-serif;
+
+    
+}
+
+
+textarea{
+    font-family: 'Arimo', sans-serif;
+    border: none;
+    max-width: 400px;
+        width: 90%;
+        display: block;
+        margin: 5px auto;
+        
+        padding:  5px;
+        border-radius: 3px;
+        font-family: 'Arimo', sans-serif;
+    
+display: block;
+
+}
+
+button{
+
+   
+
+    border: 4mm inset  rgba(242, 255, 0, 0); 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.514);
+    display: inline-block;
+        border-radius: 5px;
+    padding: 10px 20px ;
+    text-shadow:0 0  10px rgb(3, 61, 20);
+    margin-top: 15px;
+    border-color: rgb(255, 255, 255);
+  background-color: #ffffff5b;  
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-family: 'Arimo', sans-serif;
+
+}
+
+button:hover{
+    border-color: rgb(92, 158, 54);
+padding: 4444px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
