@@ -171,7 +171,7 @@ background-image: url("");
 background-size: cover;
 background-position: center;
 border-radius:5px ;
-
+box-sizing: border-box;
 
 }
 .human img{
@@ -252,14 +252,59 @@ button{
 color: rgb(255, 255, 255);
 text-decoration: none;
 font-family: 'Arimo', sans-serif;
-
+margin-bottom: 50px;
 }
 
 button:hover{
     border-color: rgb(92, 158, 54);
-padding: 4444px;
+
+}
+@media (max-width:600px) {
+    .menu a{
+        border: 3px solid  rgba(241, 243, 197, 0.514);
+padding: 10px;
+    }
+.banner{
+
+
+    padding: 10px;
+}
+h2 {
+    
+    font-size: 40px;
+   
+}
+.banner p {
+
+    width: 100%;
+     margin-left: 0%; 
+    
+}
+#car {
+   border-radius: 0%;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.info {
+  
+    width:100%;
+    text-align: left;
+    padding: 20px;
+    /* что бы пединг не расшрял тег */
+    box-sizing: border-box;
+}
+.city{
+    width: 90%;
+
+    box-sizing: border-box;
+
+}
+.human{
+    width: 90%;
 }
 
+
+}
 
 
 
